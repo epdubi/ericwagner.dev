@@ -367,7 +367,7 @@ Image credits: unsplash.com
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 450px) {
   .cd-headline b {}
   .img-circle {
     width: 300px;
@@ -375,6 +375,9 @@ Image credits: unsplash.com
   }
   #aboutText {
     display: none;
+  }
+  .profile-img{
+    max-width: 250px !important;
   }
 }
 
