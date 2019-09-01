@@ -379,6 +379,9 @@ Image credits: unsplash.com
   .profile-img{
     max-width: 250px !important;
   }
+  .github-link{
+    font-size: 14px;
+  }
 }
 
 .open-nav {
