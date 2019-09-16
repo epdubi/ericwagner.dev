@@ -1,2 +1,2 @@
-# Check out [ericwagner.dev](http://ericwagner.dev)
+[ericwagner.dev](http://ericwagner.dev)
 
